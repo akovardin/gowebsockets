@@ -3,3 +3,5 @@ path=websockets
 
 [deps]
 github.com/gorilla/websocket=master
+github.com/kylelemons/go-gypsy/yaml=master
+github.com/pebbe/zmq3=master
