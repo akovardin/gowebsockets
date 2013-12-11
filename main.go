@@ -23,9 +23,7 @@ func main() {
 
     wsaddr, _ = config.Get("ws.address")
     zmqaddr, _ = config.Get("zmq.address")
-    zmqsubject, _ = config.Get("zmq.subject")
-
-    log.Println(wsaddr)
+    zmqsubject, _ = config.Get("zmq.subject")    
 
     // connect to ZMQ broker
     responder, _ = zmq.NewSocket(zmq.SUB)
