@@ -1,3 +1,7 @@
+Websockets, ZMQ, PHP и golang
+
+Пример простого бекенда для вебсокетов. Написан на golan
+
 http://autobahn.ws/js/tutorials/pubsub/
 http://golang.org/doc/effective_go.html
 http://zeromq.org/bindings:go
