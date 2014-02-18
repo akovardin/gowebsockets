@@ -1,6 +1,6 @@
 Websockets, ZMQ, PHP и golang
 
-Пример простого бекенда для вебсокетов. Написан на golan
+Пример простого бекенда для вебсокетов. Написан на golang
 
 http://autobahn.ws/js/tutorials/pubsub/
 http://golang.org/doc/effective_go.html
